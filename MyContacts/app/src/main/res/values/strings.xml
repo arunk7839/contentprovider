@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="enter_contact_details">Enter Contact Details</string>
+    <string name="enterName">Name</string>
+    <string name="enterPhoneNumber">Phone Number :</string>
+    <string name="delete_all_contacts">Delete All Contacts</string>
+</resources>
